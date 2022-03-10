@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/71+.iml" filepath="$PROJECT_DIR$/71+.iml" />
+      <module fileurl="file://$PROJECT_DIR$/71.Keybindings/71.Keybindings.iml" filepath="$PROJECT_DIR$/71.Keybindings/71.Keybindings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/72. 2D graphics/72. 2D graphics.iml" filepath="$PROJECT_DIR$/72. 2D graphics/72. 2D graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/73.2D animation/73.2D animation.iml" filepath="$PROJECT_DIR$/73.2D animation/73.2D animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/74.generics/74.generics.iml" filepath="$PROJECT_DIR$/74.generics/74.generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/75.b.deserialize/75.b.deserialize.iml" filepath="$PROJECT_DIR$/75.b.deserialize/75.b.deserialize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/75.serialization/75.serialization.iml" filepath="$PROJECT_DIR$/75.serialization/75.serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/76.Time/76.Time.iml" filepath="$PROJECT_DIR$/76.Time/76.Time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/77.thread/77.thread.iml" filepath="$PROJECT_DIR$/77.thread/77.thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/78.Multithread/78.Multithread.iml" filepath="$PROJECT_DIR$/78.Multithread/78.Multithread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/79.package/79.package.iml" filepath="$PROJECT_DIR$/79.package/79.package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/80.compile run/80.compile run.iml" filepath="$PROJECT_DIR$/80.compile run/80.compile run.iml" />
+      <module fileurl="file://$PROJECT_DIR$/81.executable/81.executable.iml" filepath="$PROJECT_DIR$/81.executable/81.executable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/82.Thread++/82.Thread++.iml" filepath="$PROJECT_DIR$/82.Thread++/82.Thread++.iml" />
+      <module fileurl="file://$PROJECT_DIR$/88Multithreading/88Multithreading.iml" filepath="$PROJECT_DIR$/88Multithreading/88Multithreading.iml" />
+    </modules>
+  </component>
+</project>
