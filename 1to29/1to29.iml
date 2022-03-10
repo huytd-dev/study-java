@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/10.swtich" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11.logical" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12.while loop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13.forloop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15.array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17.string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18.wrapper classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19.arraylist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.variable.bien" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20.for each" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/22.methot" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/23.overloadmethotd" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/24.printf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/26.oop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/27.contructors" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/28.variable scope" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/29.overloadcontruction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.swap2bien" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.userinput" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.expressions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6.GUI into" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.math class" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8.randomnumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9.if statement" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
